@@ -1,0 +1,5 @@
+With a few simple inputs, our position size calculator 
+will help you find the approximate amount of 
+currency units to buy or sell to control 
+your maximum risk per position.  
+		 by Khan
